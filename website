@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <body style-"background-color:lightcyan;text-align:center"></body>
+
+
+    <meta name-"viewport" content-"width-device-width, initial-scale-1.0">
+    <title> THE DIME </title>
+    <h1 style="font-family: impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; background-color:lightcyan;"> THE DIME</h1>
+    <link rel-"stylesheet" href-"style.css">
+
+<style>
+
+
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+
+
+
+<main>
+<section id-"hero">
+
+</section>
+
+<section id="contact">
+
+</section>
+</main>
+
+<div class="Hero">
+    <nav>
+
+        <ul>
+            <li><a href-""> Home</a></li>
+            <li><a href-""> Featured </a></li>
+            <li><a href-""> New In</a></li>
+            <li><a href-""> Coming Soon</a></li>
+        </ul>
+        <button type-"button">click here</button>
+    </nav>
+</div>
+
+
+
+
+
+
+</html>
